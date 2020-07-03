@@ -6,3 +6,4 @@ wlist.sort()
 print('정렬 리스트 ', wlist)
 wlist.sort(reverse=True)
 print('역순 리스트 ', wlist)
+ 
