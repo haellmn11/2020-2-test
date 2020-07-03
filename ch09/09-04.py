@@ -1,7 +1,7 @@
 import turtle as t
 
-side = int(input('변 길이: '))
 cc = 360/5
+side = 100
 t.color('black')
 
 for i in range(60):
